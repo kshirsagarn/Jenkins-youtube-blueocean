@@ -5,8 +5,8 @@ pipeline {
       steps {
         sh '''
           date
-          pwd 
-'''
+          pwd
+        '''
       }
     }
 
